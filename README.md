@@ -1,0 +1,1 @@
+XChainGeek is an innovative currency conversion application designed to facilitate seamless and real-time conversion of various currencies into Azerbaijani Manat (AZN). Leveraging the latest exchange rates directly from the official website of the National Bank of Azerbaijan, XChainGeek ensures accuracy and reliability in currency conversions.
